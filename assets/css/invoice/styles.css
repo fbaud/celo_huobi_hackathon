@@ -1,0 +1,10 @@
+/* styles for invoice poc */
+
+
+.paid_status {
+	color: green;
+}
+
+.unpaid_status {
+	color: red;
+}
